@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+        "versionCode": 30,
+        "desc": "添加默认时间间隔，规避官方封号策略。",
+        "versionName": "0.3.0",
+        "helpStr": "提桶跑路了，现有安装的 APP 功能不受影响，有缘再见。",
+        "helpStr29": "提桶跑路了，现有安装的 APP 功能不受影响，有缘再见。",
+        "force": false,
+        "surveyUrl": "",
+        "feedbackUrl": "",
+        "feedbackUrl29": "",
+        "fileUrl": "https://pqnoss.kepuchina.cn/20220322/kpzs_30-20220322.apk"
+    }
+}
